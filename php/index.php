@@ -1,5 +1,7 @@
 <?php
 
-echo "olá mundo!";
+echo "olá mundo! 789";
+
+echo "olá Eric!";
 
 ?>
